@@ -51,7 +51,7 @@ function PageLayout() {
       <div className={` rounded-xl overflow-y-auto   scrollbar-hidden shadow-lg ${screenClasses[screenSize]}`}>
         <iframe
           src="https://www.scfstrategies.com/"
-          title="SCF Strategies"
+          title="TL TECHNOLOGIES"
           className="w-full h-full  overflow-y-auto scrollbar-hidden"
         ></iframe>
       </div>
